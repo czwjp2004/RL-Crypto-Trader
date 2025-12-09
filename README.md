@@ -184,4 +184,4 @@ If you use this code for academic purposes, please cite:
 
 ## 11. License
 
-This project is for educational purposes as part of CS 372 Reinforcement Learning coursework.
+This project is for educational purposes as part of CS 372 coursework.
