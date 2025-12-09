@@ -61,7 +61,30 @@ The blue line (DQN Agent) consistently outperforms the red dashed line (Buy & Ho
 * **Demo Video (Non-technical):** [https://www.loom.com/share/2b8f9455fd3142d98fbdc7ec8da68e70]
 * **Technical Walkthrough:** [https://www.loom.com/share/6b58ed2869e7460d993ddc9d9596e689]
 
-## 5. Project Structure & Rubric Highlights
+## 5. Individual Contributions
+
+**Junpeng Wang:**
+- DQN agent architecture design and implementation (`src/agent.py`)
+- Reward function design and iterative optimization (5+ versions)
+- Hyperparameter tuning and training optimization (15+ experiments)
+- Model training pipeline and convergence analysis
+- Technical problem-solving (Q-value explosion, loss divergence)
+
+**Yichen Jia:**
+- Data collection and preprocessing pipeline (`src/data_loader.py`)
+- Trading environment implementation (`src/environment.py`)
+- Feature engineering (RSI, MACD, moving averages)
+- Backtesting framework and evaluation metrics (`src/utils.py`)
+- Visualization and results analysis
+
+**Joint Contributions:**
+- Project architecture and system design
+- Documentation (README, SETUP, ATTRIBUTION)
+- Video recording and presentation
+- Code review and debugging
+- Final integration and testing
+
+## 6. Project Structure & Rubric Highlights
 
 ### Core Components:
 
@@ -98,7 +121,7 @@ The blue line (DQN Agent) consistently outperforms the red dashed line (Buy & Ho
 4. **Technical Indicators:** RSI, MACD, moving averages as state features
 5. **Reproducible Results:** Seed control and modular architecture
 
-## 6. Technical Specifications
+## 7. Technical Specifications
 
 **Training Configuration:**
 - Episodes: 1500
@@ -120,13 +143,13 @@ The blue line (DQN Agent) consistently outperforms the red dashed line (Buy & Ho
 - Hidden Layer 2: 64 neurons (ReLU)
 - Output Layer: 3 neurons (Q-values)
 
-## 7. Results Visualization
+## 8. Results Visualization
 
 Training progress and final performance can be viewed in the `results/` directory:
 - `training_curve.png`: Reward and loss curves over episodes
 - `wealth_curve.png`: Portfolio value comparison (Agent vs Buy & Hold)
 
-## 8. Repository Structure
+## 9. Repository Structure
 
 ```
 RL-Crypto-Trader/
@@ -146,7 +169,7 @@ RL-Crypto-Trader/
 └── ATTRIBUTION.md        # Citations & AI usage
 ```
 
-## 9. Citation
+## 10. Citation
 
 If you use this code for academic purposes, please cite:
 
@@ -159,6 +182,6 @@ If you use this code for academic purposes, please cite:
 }
 ```
 
-## 10. License
+## 11. License
 
 This project is for educational purposes as part of CS 372 Reinforcement Learning coursework.
