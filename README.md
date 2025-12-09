@@ -1,6 +1,6 @@
 # RL Crypto Trader: Deep Q-Learning for Bitcoin
 
-**Author:** Wang Junpeng (czwjp2004)  
+**Author:** Junpeng Wang(czwjp2004) and Yichen Jia
 **Course:** CS 372 - Introduction to Artificial Intelligence  
 **Institution:** Duke University  
 **Date:** December 2025

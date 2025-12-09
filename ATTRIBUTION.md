@@ -155,7 +155,7 @@ This project complies with CS 372 course policies:
 
 ## Contact
 
-**Author:** Wang Junpeng (czwjp2004)  
+**Author:** Junpeng Wang(czwjp2004) and Yichen Jia
 **GitHub:** https://github.com/czwjp2004/RL-Crypto-Trader
 
 For questions about attributions or to report missing citations:
