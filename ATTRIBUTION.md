@@ -159,7 +159,7 @@ This project complies with CS 372 course policies:
 **GitHub:** https://github.com/czwjp2004/RL-Crypto-Trader
 
 For questions about attributions or to report missing citations:
-- Course: CS 372 - Introduction to Artificial Intelligence
+- Course: CS 372
 - Institution: Duke University
 - Semester: Fall 2025
 - Instructor: Brandon Fain
