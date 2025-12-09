@@ -151,11 +151,11 @@ RL-Crypto-Trader/
 If you use this code for academic purposes, please cite:
 
 ```
-@software{rl_crypto_trader_2024,
+@software{rl_crypto_trader_2025,
   title={RL Crypto Trader: Deep Q-Learning for Bitcoin Trading},
-  author={[Your Name]},
-  year={2024},
-  url={[Your Repo URL]}
+  author={Junpeng Wang and Yichen Jia},
+  year={2025},
+  url={https://github.com/czwjp2004/RL-Crypto-Trader}
 }
 ```
 
