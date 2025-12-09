@@ -155,8 +155,12 @@ This project complies with CS 372 course policies:
 
 ## Contact
 
+**Author:** Wang Junpeng (czwjp2004)  
+**GitHub:** https://github.com/czwjp2004/RL-Crypto-Trader
+
 For questions about attributions or to report missing citations:
-- Course: CS 372
+- Course: CS 372 - Introduction to Artificial Intelligence
+- Institution: Duke University
 - Semester: Fall 2025
 - Instructor: Brandon Fain
 

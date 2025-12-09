@@ -1,5 +1,12 @@
 # RL Crypto Trader: Deep Q-Learning for Bitcoin
 
+**Author:** Wang Junpeng (czwjp2004)  
+**Course:** CS 372 - Introduction to Artificial Intelligence  
+**Institution:** Duke University  
+**Date:** December 2025
+
+---
+
 ## 1. What It Does
 This project implements a **Deep Reinforcement Learning (DQN)** agent capable of trading Bitcoin (BTC) autonomously. Unlike traditional algorithmic trading based on fixed heuristics, this agent learns optimal trading strategies (Buy, Sell, Hold) by interacting with a custom simulated environment using historical market data. It features a complete pipeline from real-time data fetching via `yfinance` to a simulation-based backtesting engine that evaluates profitability against a "Buy and Hold" baseline.
 
@@ -10,7 +17,7 @@ To run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [INSERT YOUR REPO LINK HERE]
+   git clone https://github.com/czwjp2004/RL-Crypto-Trader.git
    cd RL-Crypto-Trader
    ```
 
